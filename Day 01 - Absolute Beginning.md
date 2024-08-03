@@ -19,6 +19,6 @@ I'll first try to learn HTML, the syllabus of HTML in itself is big if we go dee
 
 >Trust me we don't need to know everything.
 
-I have explored many YouTube channels but I like **Kevin Powell's** YouTube channel the most so I'll do this first. Here's the link: [HTML Playlist by Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
+I have explored many YouTube channels but I like **Kevin Powell's** YouTube channel the most so I'll do this first. Here's the link: [HTML & CSS for Beginners by Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
 
 I'll just watch from 1st video upto 8th video which is, **"HTML & CSS for Beginners Part 8: Introduction to CSS"**
